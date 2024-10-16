@@ -1,4 +1,7 @@
-import { Image, StyleSheet, Platform } from 'react-native';
+import "../unistyles";
+
+import { Image, Platform } from 'react-native';
+import { StyleSheet } from 'react-native-unistyles'
 
 import { HelloWave } from '@/components/HelloWave';
 import ParallaxScrollView from '@/components/ParallaxScrollView';
