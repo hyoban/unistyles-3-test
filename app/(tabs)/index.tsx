@@ -1,5 +1,3 @@
-import "../unistyles";
-
 import { Image, Platform } from 'react-native';
 import { StyleSheet } from 'react-native-unistyles'
 

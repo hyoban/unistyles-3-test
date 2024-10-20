@@ -1,6 +1,6 @@
 {
   "name": "unistyles-3-test",
-  "main": "expo-router/entry",
+  "main": "app/_layout.tsx",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",

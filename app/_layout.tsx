@@ -1,3 +1,4 @@
+import 'expo-router/entry'
 import './unistyles'
 
 import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
